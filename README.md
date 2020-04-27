@@ -63,6 +63,7 @@ To examplify integration points and functional improvements we mapped out a solu
 ![Image](https://user-images.githubusercontent.com/60437465/80346239-53a95400-8862-11ea-8bdd-2841415d6cd3.png)
 
 **Feature Extensions**
+
 Metamask Wallet Integration:
 - Wrap application inside metamask wallet as a dapp deployment. 
 - Enable in-app wallet notifications to mitigate need for other identifiers (phone number, email etc)
