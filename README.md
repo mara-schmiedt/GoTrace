@@ -1,5 +1,5 @@
-# GoTrace
-**GoTrace is an open-source, privacy-first infrastructure toolset to equip pandemic response applications for global adoption.**
+##**GoTrace
+#GoTrace is an open-source, privacy-first infrastructure toolset to equip pandemic response applications for global adoption.
 
 **The problem we are solving**
 
@@ -32,6 +32,8 @@ Our user research indicates that developing an open-source, privacy-first develo
 
 Our solution allows developers to leverage open-source blockchain and decentralized storage components to extend their social tracing applications with enhanced privacy and security features.
 
-The technology needed is immediately available but is new in this application context. We offer an solution architecture overview and a solution framework for developers. This enables secure data sharing, anonymous ID, in-app notifications, and incentive functionalities (ERC721/20 Ethereum Token Standards).
+
+
+The technology needed is immediately available, but is new in this application context. We offer an solution architecture overview and a solution framework for developers. This enables secure data sharing, anonymous ID, in-app notifications, and incentive functionalities (ERC721/20 Ethereum Token Standards).
 
 As this solution is open source, existing and new global contract tracing applications can implement this technology to help accelerate adoption and flatten the curve. Attached, you will find a picture of the high level architecture of the solution, followed by a more specific architecture to cater to the Coalition Network use case.
