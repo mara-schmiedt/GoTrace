@@ -1,5 +1,5 @@
-##**GoTrace
-#GoTrace is an open-source, privacy-first infrastructure toolset to equip pandemic response applications for global adoption.
+## **GoTrace**
+# **GoTrace is an open-source, privacy-first infrastructure toolset to equip pandemic response applications for global adoption.**
 
 **The problem we are solving**
 
